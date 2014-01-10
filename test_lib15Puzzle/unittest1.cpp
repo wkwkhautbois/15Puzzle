@@ -34,14 +34,14 @@ namespace test_lib15Puzzle
 			Assert::AreEqual(11, field[10]->num());
 		}
 
-		TEST_METHOD(test_GetNumField)
-		{
-			Field field;
-			
-			//‰Šúó‘Ô
-			
+		//TEST_METHOD(test_GetNumField)
+		//{
+		//	Field field;
+		//	
+		//	//‰Šúó‘Ô
+		//	
 
-		}
+		//}
 
 		TEST_METHOD(test_Initialize)
 		{
